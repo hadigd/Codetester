@@ -1,0 +1,103 @@
+/* Google Fonts import (first 50 fonts) */
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+/* CSS classes for each font */
+.fo-1 { font-family: "Black Ops One", system-ui; }
+.fo-2 { font-family: "Parisienne", cursive; }
+.fo-3 { font-family: "Roboto", sans-serif; }
+.fo-4 { font-family: "Open Sans", sans-serif; }
+.fo-5 { font-family: "Lato", sans-serif; }
+.fo-6 { font-family: "Montserrat", sans-serif; }
+.fo-7 { font-family: "Oswald", sans-serif; }
+.fo-8 { font-family: "Raleway", sans-serif; }
+.fo-9 { font-family: "Merriweather", serif; }
+.fo-10 { font-family: "Playfair Display", serif; }
+.fo-11 { font-family: "Nunito", sans-serif; }
+.fo-12 { font-family: "Poppins", sans-serif; }
+.fo-13 { font-family: "Ubuntu", sans-serif; }
+.fo-14 { font-family: "Quicksand", sans-serif; }
+.fo-15 { font-family: "Pacifico", cursive; }
+.fo-16 { font-family: "Inconsolata", monospace; }
+.fo-17 { font-family: "DM Sans", sans-serif; }
+.fo-18 { font-family: "Rubik", sans-serif; }
+.fo-19 { font-family: "Work Sans", sans-serif; }
+.fo-20 { font-family: "PT Sans", sans-serif; }
+.fo-21 { font-family: "Arvo", serif; }
+.fo-22 { font-family: "Cabin", sans-serif; }
+.fo-23 { font-family: "Fira Sans", sans-serif; }
+.fo-24 { font-family: "Exo 2", sans-serif; }
+.fo-25 { font-family: "Hind", sans-serif; }
+.fo-26 { font-family: "Karla", sans-serif; }
+.fo-27 { font-family: "Maven Pro", sans-serif; }
+.fo-28 { font-family: "Overpass", sans-serif; }
+.fo-29 { font-family: "Righteous", cursive; }
+.fo-30 { font-family: "Saira", sans-serif; }
+.fo-31 { font-family: "Teko", sans-serif; }
+.fo-32 { font-family: "Varela Round", sans-serif; }
+.fo-33 { font-family: "Zilla Slab", serif; }
+.fo-34 { font-family: "Anton", sans-serif; }
+.fo-35 { font-family: "Bebas Neue", sans-serif; }
+.fo-36 { font-family: "Courgette", cursive; }
+.fo-37 { font-family: "Dancing Script", cursive; }
+.fo-38 { font-family: "EB Garamond", serif; }
+.fo-39 { font-family: "Fredericka the Great", cursive; }
+.fo-40 { font-family: "Great Vibes", cursive; }
+.fo-41 { font-family: "Josefin Sans", sans-serif; }
+.fo-42 { font-family: "Libre Baskerville", serif; }
+.fo-43 { font-family: "Luckiest Guy", cursive; }
+.fo-44 { font-family: "Marck Script", cursive; }
+.fo-45 { font-family: "Orbitron", sans-serif; }
+.fo-46 { font-family: "Permanent Marker", cursive; }
+.fo-47 { font-family: "Sacramento", cursive; }
+.fo-48 { font-family: "Shadows Into Light", cursive; }
+.fo-49 { font-family: "Titillium Web", sans-serif; }
+.fo-50 { font-family: "Yanone Kaffeesatz", sans-serif; }
